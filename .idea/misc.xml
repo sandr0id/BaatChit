@@ -9,16 +9,20 @@
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/drawable/sent_message_background.xml" value="0.22962962962962963" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_change_password.xml" value="0.1" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_chat.xml" value="0.2152777777777778" />
-        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_message.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_message_activiyt.xml" value="0.2152777777777778" />
-        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_profile.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_profile.xml" value="0.264" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_reset_password.xml" value="0.12807377049180327" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_select_friend.xml" value="0.1" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_signup.xml" value="0.2359375" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/activity_splash.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/chat_file_options.xml" value="0.264" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/chat_list_layout.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/custom_action_bar.xml" value="0.2" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/custom_progressbar.xml" value="0.2" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/file_progress.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/find_friends_layout.xml" value="0.264" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/fragment_chatfragment.xml" value="0.20277777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/fragment_find_friends.xml" value="0.2152777777777778" />
@@ -26,11 +30,16 @@
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/fragment_request.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/friend_request_layout.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/message_layout.xml" value="0.264" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/select_friend_layout.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/tab_chat.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/tab_findfriends.xml" value="0.2152777777777778" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/layout/tab_request.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/menu/menu_chat_options.xml" value="0.264" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/menu/menu_main.xml" value="0.176" />
         <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/menu/menu_picture.xml" value="0.1" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/mipmap-anydpi-v26/ic_gallery.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/mipmap-anydpi-v26/ic_gallery_round.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/sandy/AndroidStudioProjects/myproject/BaatChit/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12407407407407407" />
       </map>
     </option>
   </component>
